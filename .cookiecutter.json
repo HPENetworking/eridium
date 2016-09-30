@@ -1,0 +1,11 @@
+{
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "hpe-networking@lists.hp.com",
+    "repo_name": "eridium",
+    "repo_url": "https://github.com/HPENetworking/eridium",
+    "doc_url": "https://github.com/HPENetworking/eridium",
+    "project_name": "Eridium",
+    "short_description": "Eridium is a packet generator RESTfull API, a Python client, and a server reference implementation.",
+    "year": "2016",
+    "version": "0.1.0"
+}
